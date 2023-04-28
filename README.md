@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bhesh Raj Bastola</h1>
 <h3 align="center">A passionate fullstack developer from Nepal</h3>
+<img align="right" width="410" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" />
+
 
 - 🌱 I’m currently Learning **MERN Stack**
 
